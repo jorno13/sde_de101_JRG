@@ -1,0 +1,4 @@
+Make a connection to the raw data.
+
+Understand how the connection is set up
+understand what data is needed to tranform it to information
